@@ -1,0 +1,31 @@
+﻿[
+  {
+    "Name": "Aslan",
+    "Id": 3457,
+    "Gender": 0,
+    "Type": 0,
+    "AnimalStatus": 3
+  },
+  {
+    "Name": "Tusse",
+    "Id": 1,
+    "Gender": 0,
+    "Type": 1,
+    "AnimalStatus": 0
+  },
+  {
+    "Name": "Polly",
+    "Id": 124,
+    "Gender": 1,
+    "Type": 2,
+    "AnimalStatus": 1
+  },
+  {
+    "Name": "Flipper",
+    "Id": 125,
+    "Gender": 2,
+    "Type": 1,
+    "AnimalStatus": 2
+  }
+
+]
